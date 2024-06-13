@@ -16,12 +16,12 @@ Throughout the internship, I developed and utilized the following skills:
 
 ## Project Structure
 The repository is organized as follows:
-- `datasets/`: Contains the datasets used for analysis.
-- `presentations/`: Contains PowerPoint presentations summarizing the findings.
-- `reports/`: Contains detailed reports and documentation.
+- datasets: Contains the datasets used for analysis.
+- presentations: Contains PowerPoint presentations summarizing the findings.
+- reports: Contains detailed reports and documentation.
 
 ## Datasets
-The datasets used in this project are provided in the `datasets` folder. Each dataset is documented with its source, structure, and purpose in the analysis.
+The datasets used in this project are provided in the datasets folder. Each dataset is documented with its source, structure, and purpose in the analysis.
 
 ## Analysis
 The analysis performed during the internship includes the following steps:
@@ -30,17 +30,13 @@ The analysis performed during the internship includes the following steps:
 3. **Data Visualization**: Creating charts and graphs to visualize data trends and insights.
 
 ## Results
-The key findings and recommendations from the analysis are summarized in the `reports` folder. The findings are also presented in the PowerPoint presentations in the `presentations` folder.
+The key findings and recommendations from the analysis are summarized in the reports folder. The findings are also presented in the PowerPoint presentations in the presentations folder.
 
 ## How to Use
 To explore the analysis and results, follow these steps:
-1. Navigate to the repository directory:
-    ```bash
-    cd Accenture-Data-Analytics-Internship
-    ```
-3. Explore the datasets in the `datasets` folder.
-5. Review the findings in the `reports` folder.
-6. View the PowerPoint presentations in the `presentations` folder.
+1. Explore the datasets in the datasets folder.
+2. Review the findings in the reports folder.
+3. View the PowerPoint presentations in the presentations folder.
 
 
 ## Contact
