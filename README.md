@@ -1,4 +1,5 @@
 # Data-Analytics-and-Visualization
+![image](https://github.com/user-attachments/assets/5f9719dc-1008-4bfa-9bf6-d1fbe97a36c0)
 
 ## Introduction
 This repository contains projects and work from my Accenture virtual internship in data analytics and visualization. The internship involved advising a hypothetical social media client by cleaning, modeling, and analyzing datasets to uncover insights into content trends, which informed strategic decisions.
